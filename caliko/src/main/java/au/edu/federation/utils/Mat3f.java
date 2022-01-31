@@ -223,7 +223,7 @@ public class Mat3f
 		return new Mat3f(xAxis, yAxis, zAxis);
 		***/
 
-		/*** NEW VERSION - 1.3.8 onwards ***/		
+		/*** NEW VERSION - 1.4.0 onwards ***/		
 		
 		Mat3f rotMat = new Mat3f();
 		
